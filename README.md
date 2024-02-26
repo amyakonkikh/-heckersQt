@@ -1,1 +1,1 @@
-# -heckersQt
+# CheckersQt
